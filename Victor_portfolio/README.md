@@ -1,17 +1,14 @@
-_**Home Section**_
-_<img width="1892" height="873" alt="image" src="https://github.com/user-attachments/assets/e8b9c2bf-20a5-4420-b130-08b9cc3d71a7" />
+**home**
+<img width="1366" height="565" alt="image" src="https://github.com/user-attachments/assets/def3d66b-b8e2-4e85-bc6b-95a69cd1a4ad" />
 
-_**About Section**__
-<img width="1565" height="525" alt="image" src="https://github.com/user-attachments/assets/f462bcfc-1d18-4d5f-b3a5-5317ef0c619a" />
- 
-_**Skills Section**_
-<img width="1801" height="740" alt="image" src="https://github.com/user-attachments/assets/ec10c404-0abf-4c75-8422-643ab75b5e1f" />
+**About me**
+<img width="1366" height="415" alt="image" src="https://github.com/user-attachments/assets/9b0fc15b-27ee-4eb6-9e94-42a7cd5132a3" />
 
-_**Education Section**__
-<img width="1780" height="639" alt="image" src="https://github.com/user-attachments/assets/bc46f168-a793-4205-9231-8aeeba847c30" />
+**Skills**
+<img width="1366" height="426" alt="image" src="https://github.com/user-attachments/assets/79923eac-10f1-4f38-9579-5cb82a398287" />
 
-_**Experience Section**_
-<img width="1752" height="531" alt="image" src="https://github.com/user-attachments/assets/d509bc44-ac18-49fa-9fc7-1f2fc30356d9" />
+**Education**
+<img width="1366" height="373" alt="image" src="https://github.com/user-attachments/assets/29f36f8a-e795-40de-ba67-98af4c2aeb3f" />
 
-_**Contact Section**_
-<img width="1752" height="531" alt="image" src="https://github.com/user-attachments/assets/311fae79-44a4-47b6-adf2-6c3ed233286a" />
+**Contact**
+<img width="1366" height="499" alt="image" src="https://github.com/user-attachments/assets/9ac3f2ed-9bee-4dc1-aeea-3db67c337098" />
