@@ -114,6 +114,22 @@ nav ul li a.active {
     transform: translateY(-4px) scale(1.06);
     box-shadow: 0 18px 40px rgba(56,189,248,0.45);
 }
+/* ================= RESUME BUTTON ================= */
+.resume-btn {
+    display: inline-block;
+    padding: 14px 30px;
+    border-radius: 30px;
+    background: linear-gradient(135deg, #22d3ee, #22c55e);
+    color: #020617;
+    font-weight: 600;
+    text-decoration: none;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.resume-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 30px rgba(34, 211, 238, 0.4);
+}
 
 /* ================= SECTIONS ================= */
 .section {
